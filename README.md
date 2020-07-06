@@ -8,12 +8,12 @@ Monday (today...) I'll do this planning and **take a last look** on the last pro
 I'll also **add more infos** on my LinkedIn profile because it's not complete right now.
 I'll check for **internship opportunities** later today or tomorrow if I don't have enough time.
 
-During the rest of the week, I will learn more on **React**. Even though I worked with React on the project, I didn't grasp all of the concepts related to React.
+During the rest of the week, I will learn more on **_React_**. Even though I worked with React on the project, I didn't grasp all of the concepts related to React.
 
 ## Week 2 (13/07 -> 17/07)
 
 First of all : if I think it's necessary, maybe I'll **continue** my in-depth study of React.
-Then, I will give a try to the **Wordpress project** that Nico gave us at the beginning of the lockdown.
+Then, I will give a try to the **_Wordpress project_** that Nico gave us at the beginning of the lockdown.
 However, someone said to me that Wordpress is also important to know/master when searching for an internship or a job so it won't be wasted time.
 
 ## Week 3 (20/07 -> 24/07)
@@ -23,8 +23,8 @@ Maybe I'll already have an internship opportunity at that point (let me dream...
 
 ## ~~Week 4 (27/07 -> 31/07)~~
 
-### Sorry, it's holidayyyyys ! We're closed !
+### Sorry but it's holidays ! We're closed !
 
 ---
 
-That's all I can do for the moment. It's not August yet !
+That's all I can do for the moment. It's not August yet...
