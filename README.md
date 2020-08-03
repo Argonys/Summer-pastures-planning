@@ -45,7 +45,7 @@ There, I think it will be time to really start with Ionic and do something with 
 
 ## Week 8 (24/08 -> 28/08)
 
-*Work in progress... -> I prefer not to plan my weeks too early so I'll update these next weeks later...
+*Work in progress... -> I prefer not to plan my weeks too early so I'll update these next weeks later...*
 ## Week 9 (31/08 -> 04/09)
 
 *Work in progress...*
