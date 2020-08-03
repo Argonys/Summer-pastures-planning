@@ -27,4 +27,33 @@ Maybe I'll already have an internship opportunity at that point (let me dream...
 
 ---
 
-That's all I can do for the moment. It's not August yet...
+Ok, now we are in August !
+
+## Week 5 (03/08 -> 07/08)
+
+*So, my interview before the holidays went well, the person said that it was OK for him and that I can do my internship in his company. He said that they work with Angular and proposed me to work on the mobile version of one of their products (or work on a PWA). I think it's ok for me, it was my request to possibly work on a mobile app.*
+
+I didn't start Angular the friday before hollidays so I'll start it now! Firstly I'll start with Angular alone and then see how the framework Ionic works with Angular (because they talked about it during my interview). But for this week, I'll only work with Angular (openclassroom tutorials, video tutorials...).
+
+## Week 6 (10/08 -> 14/08)
+
+I'll continue my project with Angular and perhaps start with Ionic, to see how it works. 
+
+## Week 7 (17/08 -> 21/08)
+
+There, I think it will be time to really start with Ionic and do something with it.
+
+## Week 8 (24/08 -> 28/08)
+
+*Work in progress... -> I prefer not to plan my weeks too early so I'll update these next weeks later...
+## Week 9 (31/08 -> 04/09)
+
+*Work in progress...*
+
+## Week 10 (07/09 -> 11/09)
+
+*Work in progress...*
+
+## Week 11 (14/09 -> 18/09)
+
+Beginning of my internship? I don't know if this is still scheduled for this date or if it's for the previous week...
